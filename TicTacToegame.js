@@ -1,3 +1,7 @@
+import React from 'react'
+import 'board.html';
+import 'styles.css';
+
 class Square extends React.Component {
     render() {
       return (
